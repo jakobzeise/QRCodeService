@@ -1,0 +1,113 @@
+hyperskill_project:
+  id: 385
+  ide_files: https://cogniterra.org/media/attachments/lesson/32480/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Sun, 12 Nov 2023 13:43:38 UTC"
+stages:
+  - id: 2290
+    step: 35505
+    is_completed: true
+  - id: 2291
+    step: 35506
+    is_completed: true
+  - id: 2292
+    step: 35507
+    is_completed: true
+  - id: 2293
+    step: 35508
+    is_completed: true
+  - id: 2294
+    step: 35509
+    is_completed: true
+topics:
+  0:
+    - title: World Wide Web
+      theory_id: 6633
+    - title: "HTTP: HyperText Transfer Protocol"
+      theory_id: 6569
+    - title: "Write, compile, and run"
+      theory_id: 3739
+    - title: "Basic terms: JVM, JRE, JDK"
+      theory_id: 3499
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: Spring and Spring Boot frameworks
+      theory_id: 7944
+    - title: Getting started with Spring Boot
+      theory_id: 6336
+    - title: HTTP URL
+      theory_id: 6740
+    - title: Basic project structure
+      theory_id: 6339
+    - title: Introduction to Spring Web MVC
+      theory_id: 13611
+    - title: HTTP messages
+      theory_id: 6752
+    - title: REST
+      theory_id: 7834
+    - title: Postman
+      theory_id: 8512
+    - title: Web development
+      theory_id: 13931
+    - title: Build tools
+      theory_id: 4284
+    - title: JAR files
+      theory_id: 4311
+    - title: "Gradle: overview"
+      theory_id: 5075
+    - title: Basic project with Gradle
+      theory_id: 5077
+    - title: Building apps using Gradle
+      theory_id: 7917
+    - title: "Dependency management: repositories"
+      theory_id: 37189
+    - title: External resources
+      theory_id: 6216
+    - title: Libraries
+      theory_id: 8504
+    - title: Frameworks
+      theory_id: 6701
+    - title: Introduction to software architecture
+      theory_id: 15368
+    - title: HTML basics
+      theory_id: 6434
+    - title: Tags and Attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+    - title: YAML
+      theory_id: 12722
+    - title: JSON
+      theory_id: 6854
+    - title: Getting data from REST
+      theory_id: 13287
+    - title: MVC
+      theory_id: 17197
+  1:
+    - title: IoC Container
+      theory_id: 16851
+    - title: Spring beans
+      theory_id: 14641
+    - title: Spring components
+      theory_id: 14652
+    - title: What is object-oriented programming
+      theory_id: 3614
+    - title: What are bugs
+      theory_id: 5504
+    - title: Functional testing
+      theory_id: 13438
+    - title: Unit testing
+      theory_id: 7545
+    - title: Dependency injection
+      theory_id: 20580
+    - title: Interfaces
+      theory_id: 9640
+    - title: Code organization. Design principles
+      theory_id: 8956
+    - title: Coupling and cohesion
+      theory_id: 21478
+    - title: Customizing REST responses
+      theory_id: 33247

@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/QRCode Service/task/build/
+/QRCode Service/task/out/
+/QRCode Service/task/out/production/classes/
